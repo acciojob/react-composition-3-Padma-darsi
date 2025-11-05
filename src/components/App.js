@@ -9,9 +9,8 @@ const App = () => {
       <Tooltip text="This is a tooltip">
         <p>Hover over this text to see the tooltip</p>
       </Tooltip>
-
       <Tooltip text="React is awesome!">
-        <button>Hover over this button</button>
+        <button>Hover over me</button>
       </Tooltip>
     </div>
   );
